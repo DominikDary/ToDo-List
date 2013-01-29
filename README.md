@@ -1,7 +1,8 @@
 ToDo-List
 =========
 
-Demo Projct of my article about the [FEST](http://fest.easytesting.org/) Gui Testing tool. The corresponding article you find [here](http://www.de.capgemini.com/insights/publikationen/functional-tests-with-the-fest-framework/?d=83EA4B43-C8EF-9431-E33B-2BFC5E3BA2DA).
+Demo Projct of my article about the [FEST](http://fest.easytesting.org/) Gui Testing tool. 
+The corresponding article you find [here](http://www.slideshare.net/DominikDary/functional-tests-withthefestframework).
 
 Project Details:
 ----------------
